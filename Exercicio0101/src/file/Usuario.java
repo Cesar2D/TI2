@@ -4,8 +4,10 @@ import java.util.*;
 
 public class Usuario {
 	
-	int codigo; String login;
-	String senha; char sexo;
+	int codigo; 
+	String login;
+	String senha; 
+	char sexo;
 	
 	/*----- constructor -----*/
 	// standart constuctor 
@@ -24,7 +26,7 @@ public class Usuario {
 	// object create
 	public static Scanner sc = new Scanner(System.in);
 	
- /*----- get/set -----*/
+	/*----- get/set -----*/
 	public static Scanner getSc() {
 		return sc;
 	}
