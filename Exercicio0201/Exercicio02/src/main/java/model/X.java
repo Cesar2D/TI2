@@ -1,4 +1,4 @@
-package Exercicio2;
+package model;
 
 public class X {
 	
